@@ -1,0 +1,14 @@
+Pseudocode
+#import time calendar datetime winsound
+#def the time
+#convert total seconds to min
+#convert total min to hours
+#time zones
+#put the hour min seconds in order
+#def alarm
+#get input for hours min and seconds and pm or am
+#def beep
+#print the time
+#def quit to close gui
+#def show time to show time
+#build a gui to show time
